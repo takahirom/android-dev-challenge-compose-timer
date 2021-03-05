@@ -2,7 +2,6 @@
 
 ![Workflow result](https://github.com/takahirom/android-dev-challenge-compose-timer/workflows/Check/badge.svg)
 
-
 ## :scroll: Description
 <!--- Describe your app in one or two sentences -->
 Cool animated timer
