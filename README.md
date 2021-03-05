@@ -1,4 +1,4 @@
-# Put title of your app here
+# Compose circle timer
 
 ![Workflow result](https://github.com/takahirom/android-dev-challenge-compose-timer/workflows/Check/badge.svg)
 
